@@ -1,0 +1,58 @@
+
+
+
+/* __________________________________________NAVBAR🔽_____________________________________ */
+
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item {
+    margin-right: 2rem;
+    font-size: 1.3em;
+   
+} 
+
+/* __________________________________________NAVBAR🔼_____________________________________  */
+
+/* __________________________________________________________________________________________ */
+
+/* __________________________________________MAIN🔽_____________________________________ */
+
+.textos {
+    width: 80%;
+    height: 50rem;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10rem 12rem;
+    color: var( --botao-destaque);
+}
+
+
+/* __________________________________________MAIN🔼_____________________________________  */
+
+/* __________________________________________________________________________________________ */
+
+/* _________________________________________RODAPE🔽_____________________________________ */
+.rodape {
+    background-color: var(--fundo-2);
+    width: 100%;
+    height: 20rem;
+    bottom: 0;
+    color: var(--botao-destaque);
+    text-align: center;
+}
+
+/* __________________________________________RODAPE🔼_____________________________________  */
+
+/* __________________________________________________________________________________________ */
+
+
+/* POR FAVRO IR SEGUINDO ESSE MESMO ESQUEMA DE ORGANIZAR O CODIGO , A CADA SECTION UE FIZER  */
+/* FAZ UMA BARRA DESSA /* _____NOME DA SECTION🔼______________  PRA NO FINAL O CODIGO FICAR BEM ORGANIZADO*/
+
+
+/* QUANDO VCS PEGAREM O PROJETO , CRIEM UM NOVO CSS COM O NOME DA PAG 
+Q ESTÃO FAZENDO , EU FIZ ESSE CSS AQ SÓ PRA VCS TEREM UM PADRÃO 
+DE COMO ORGANIZAR ELE  */
